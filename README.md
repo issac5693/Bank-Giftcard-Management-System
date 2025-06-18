@@ -1,0 +1,2 @@
+#Bank Giftcard Management System
+This project is a console-based Digital Bank Giftcard Management System that allows bank customers to securely create, access, and manage multiple giftcards linked to their accounts. Key features include giftcard creation, top-up, purchase handling, blocking/unblocking, closing cards, and viewing detailed summaries. The system ensures data consistency and user-friendly navigation through structured menus, mimicking real-world banking workflows.
